@@ -28,21 +28,21 @@ Once all features for that release are merged into main:
 - delete merged branches
 
 ## Common Git Commands
-Clone repository:
+- Clone repository:
 git clone <repo-url>
-Create branch:
+- Create branch:
 git checkout -b 'branch-name'
-Switch branch:
+- Switch branch:
 git checkout 'branch-name'
-State changes:
+- State changes:
 git add <file>
-Commit changes:
+- Commit changes:
 git commit -m "Commit Message"
 (Put " " around your commit message)
-Push:
+- Push:
 git push -u origin 'branch-name'
-Pull:
+- Pull:
 git pull origin main
-Delete local branch:
+- Delete local branch:
 git branch -d 'branch-name'
 

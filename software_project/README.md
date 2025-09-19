@@ -30,3 +30,8 @@ Enter 6 to choose square root, input number 9, result 3
 - command-line interface for user input
 - errors for invalid input, division by zero, and negative square roots
 - test cases to verify function works and finds errors
+
+## Project Status
+Version: v1.0.0
+All planned features implemented and merged.
+Repository cleaned and tagged.

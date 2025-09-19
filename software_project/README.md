@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 
 # My Software Engineering Project (change change)
 # My Software Engineering Project (modify modify modify)
 # My Software Engineering Project (change change modify modify modify)
+=======
+# My Software Engineering Project (change change change)
+>>>>>>> hotfix/readme-update
 
 Kurt Bullinger
 1316639
@@ -30,4 +34,4 @@ Enter 6 to choose square root, input number 9, result 3
 - advanced arithmetic operators: power, square root
 - command-line interface for user input
 - errors for invalid input, division by zero, and negative square roots
-- test cases to verify function works
+- test cases to verify function works and finds errors

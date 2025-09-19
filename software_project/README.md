@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-
 # My Software Engineering Project (change change)
 # My Software Engineering Project (modify modify modify)
 # My Software Engineering Project (change change modify modify modify)
-=======
-# My Software Engineering Project (change change change)
->>>>>>> hotfix/readme-update
 
 Kurt Bullinger
 1316639
